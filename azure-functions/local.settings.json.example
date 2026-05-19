@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_SPEECH_KEY": "your_speech_key",
+    "AZURE_SPEECH_REGION": "brazilsouth",
+    "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=...;AccountKey=...;EndpointSuffix=core.windows.net",
+    "NLP_MODEL_URL": "http://localhost:8001",
+    "RISK_ENGINE_URL": "http://localhost:8002",
+    "AI_FOUNDRY_ENDPOINT": "https://your-workspace.api.azureml.ms"
+  }
+}
