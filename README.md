@@ -417,6 +417,8 @@ cp .env.example .env
 
 ## Cenários de Teste
 
+> **Nota:** Os arquivos de áudio e os textos utilizados nesta seção foram criados artificialmente para fins de teste do pipeline. As vozes são **geradas por IA** (`edge-tts`) e não representam pacientes reais. Os cenários clínicos foram elaborados manualmente para cobrir os três níveis de risco esperados.
+
 Seis arquivos WAV prontos em `test-scenarios/production test/`:
 
 | Arquivo | Cenário | Classificação esperada |
